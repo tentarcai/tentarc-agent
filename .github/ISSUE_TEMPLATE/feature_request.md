@@ -1,0 +1,19 @@
+---
+name: Feature Request
+about: Suggest a feature for Tentarc
+title: "[Feature] "
+labels: enhancement
+assignees: ''
+---
+
+**Problem**
+What problem does this feature solve?
+
+**Proposed Solution**
+Describe your ideal solution.
+
+**Alternatives Considered**
+Any alternative approaches you've thought of.
+
+**Additional Context**
+Any other context, screenshots, or references.
