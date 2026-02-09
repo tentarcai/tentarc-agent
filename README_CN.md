@@ -33,7 +33,7 @@
 
 ## Tentarc 是什么？
 
-TTentarc 将您的应用、API 和数据连接到一个流畅的界面中。体验 Claude Code 加持的原生 Agent 多任务处理。
+Tentarc 将您的应用、API 和数据连接到一个流畅的界面中。体验 Claude Code 加持的原生 Agent 多任务处理。
 
 从飞书、Slack、Telegram 或 Discord 发一条消息 — Agent 在你的电脑上本地执行，然后把结果发回给你。不需要配置文件，不需要安装向导。你说你想要什么，Agent 自己搞定。
 
