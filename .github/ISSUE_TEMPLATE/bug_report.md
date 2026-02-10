@@ -19,7 +19,7 @@ What you expected to happen.
 
 **Environment**
 - OS: [e.g. macOS 14.2, Windows 11]
-- Tentarc version: [e.g. 0.1.0-beta]
+- Tentarc version: [e.g. 1.0.0]
 - Channel: [e.g. Telegram, Lark, Slack]
 
 **Screenshots / Logs**

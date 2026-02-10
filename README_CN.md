@@ -14,13 +14,14 @@
   <a href="#安装">安装</a> ·
   <a href="#功能">功能</a> ·
   <a href="#快速开始">快速开始</a> ·
+  <a href="https://tentarc.com/zh/changelog">更新日志</a> ·
   <a href="ROADMAP.md">路线图</a> ·
   <a href="README.md">English</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue" alt="Platform" />
-  <img src="https://img.shields.io/badge/status-beta-orange" alt="Status" />
+  <img src="https://img.shields.io/badge/status-stable-brightgreen" alt="Status" />
 </p>
 
 ---
@@ -171,6 +172,14 @@ Anthropic、OpenRouter、Vercel AI Gateway、MiniMax、智谱 GLM、Kimi、火�
 - [报告 Bug](https://github.com/tentarcai/tentarc-agent/issues)
 - [功能建议](https://github.com/tentarcai/tentarc-agent/issues)
 - [讨论区](https://github.com/tentarcai/tentarc-agent/discussions)
+- [Discord 社区](https://discord.gg/xbaJPBz4F)
+- [X 账号](https://x.com/tentarcai)
+
+## 仓库定位
+
+这个仓库用于 Tentarc 对外宣传主页（文档、截图、发布信息）。
+
+产品主代码仓库单独维护，且为闭源。
 
 ## 许可证
 

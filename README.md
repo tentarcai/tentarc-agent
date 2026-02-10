@@ -14,13 +14,14 @@
   <a href="#install">Install</a> ·
   <a href="#features">Features</a> ·
   <a href="#quick-start">Quick Start</a> ·
+  <a href="https://tentarc.com/en/changelog">Changelog</a> ·
   <a href="ROADMAP.md">Roadmap</a> ·
   <a href="README_CN.md">中文</a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue" alt="Platform" />
-  <img src="https://img.shields.io/badge/status-beta-orange" alt="Status" />
+  <img src="https://img.shields.io/badge/status-stable-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="License" />
 </p>
 
@@ -172,6 +173,14 @@ See [ROADMAP.md](ROADMAP.md) for details.
 - [Report a Bug](https://github.com/tentarcai/tentarc-agent/issues)
 - [Request a Feature](https://github.com/tentarcai/tentarc-agent/issues)
 - [Discussions](https://github.com/tentarcai/tentarc-agent/discussions)
+- [Discord](https://discord.gg/xbaJPBz4F)
+- [Follow on X](https://x.com/tentarcai)
+
+## Repository Scope
+
+This repository is the public marketing homepage for Tentarc (docs, screenshots, launch information).
+
+The production codebase is maintained separately and is closed-source.
 
 ## License
 
