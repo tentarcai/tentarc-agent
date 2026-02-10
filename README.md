@@ -65,10 +65,12 @@ No. Everything is instant. Mention new skills or services with `@`, even mid-con
 
 | Platform | Download |
 |----------|----------|
-| macOS (Apple Silicon) | [Tentarc-arm64.dmg](https://download.tentarc.com/releases/latest/Tentarc-arm64.dmg) |
-| macOS (Intel) | [Tentarc-x64.dmg](https://download.tentarc.com/releases/latest/Tentarc-x64.dmg) |
-| Windows | [Tentarc-x64.exe](https://download.tentarc.com/releases/latest/Tentarc-x64.exe) |
-| Linux | [Tentarc-x64.AppImage](https://download.tentarc.com/releases/latest/Tentarc-x64.AppImage) |
+| macOS (Apple Silicon, Preview) | [Tentarc-arm64.dmg](https://download.tentarc.com/preview/latest/Tentarc-arm64.dmg) |
+| macOS (Intel, Preview) | [Tentarc-x64.dmg](https://download.tentarc.com/preview/latest/Tentarc-x64.dmg) |
+| Windows (Stable) | [Tentarc-x64.exe](https://download.tentarc.com/releases/latest/Tentarc-x64.exe) |
+| Linux (Stable) | [Tentarc-x64.AppImage](https://download.tentarc.com/releases/latest/Tentarc-x64.AppImage) |
+
+> Note: macOS is currently distributed as Preview while Apple Developer Program enrollment is pending.
 
 Or visit [tentarc.com/download](https://tentarc.com/download) for more options.
 
