@@ -71,6 +71,18 @@ Tentarc 将您的应用、API 和数据连接到一个流畅的界面中。体�
 
 > 说明：由于 Apple Developer Program 注册尚未完成，macOS 当前先以预览版分发。
 
+推荐用于 macOS 预览版的一键安装命令：
+
+```bash
+curl -fsSL https://download.tentarc.com/install-app.sh | bash -s -- --channel preview
+```
+
+稳定版渠道：
+
+```bash
+curl -fsSL https://download.tentarc.com/install-app.sh | bash
+```
+
 或访问 [tentarc.com/download](https://tentarc.com/download) 获取更多选项。
 
 ## 功能

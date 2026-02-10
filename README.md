@@ -72,6 +72,18 @@ No. Everything is instant. Mention new skills or services with `@`, even mid-con
 
 > Note: macOS is currently distributed as Preview while Apple Developer Program enrollment is pending.
 
+Recommended CLI install for macOS Preview:
+
+```bash
+curl -fsSL https://download.tentarc.com/install-app.sh | bash -s -- --channel preview
+```
+
+Stable channel:
+
+```bash
+curl -fsSL https://download.tentarc.com/install-app.sh | bash
+```
+
 Or visit [tentarc.com/download](https://tentarc.com/download) for more options.
 
 ## Features
